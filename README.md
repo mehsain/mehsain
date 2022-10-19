@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[here](https://github.com/thedjzihan?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[here](https://github.com/mehsain?tab=repositories)**
 
 - 📫 How to reach me **meherab.ded@gmail.com**
 
