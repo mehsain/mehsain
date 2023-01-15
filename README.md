@@ -2,6 +2,11 @@
 <a href=></a>
 <br><br>
 
+<img width=70% src="https://user-images.githubusercontent.com/114495317/212552823-b463768e-fe8a-4c99-9a40-a9a18fbdb46b.jpg"/>
+
+<img width=50% src="https://user-images.githubusercontent.com/114495317/212553028-3d8167cf-4d22-4a82-967a-547321df128d.png"/>
+
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/811662816925843508?theme=black&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=괴물처럼살기)](https://discord.com/users/811662816925843508)
 
 <!--![Contribution](https://activity-graph.herokuapp.com/graph?username=mehsain&theme=gotham&hide_border=true&area=true)-->
